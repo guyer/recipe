@@ -5,7 +5,8 @@ Ingredients:
 - 1 lime
 - 2 tsp salt
 - jalapeño to taste
-
+-1/2 cup cherry pie filling
+  
 Instructions:
 - cut and mash avocados
 - chop tomato
@@ -15,4 +16,5 @@ Instructions:
 - add salt
 - and mix well
 - add chocolate chips
+- top with cherry pie filling
   
