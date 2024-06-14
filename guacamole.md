@@ -1,5 +1,6 @@
 Ingredients:
 - 2 avocados
+- 1 tomato
 - 1 lime
 - 2 tsp salt
 - jalapeño to taste
@@ -8,6 +9,7 @@ Ingredients:
 
 Instructions:
 - cut and mash avocados
+- chop tomato
 - chop onion
 - chop jalapeño
 - squeeze lime
