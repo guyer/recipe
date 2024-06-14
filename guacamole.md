@@ -1,5 +1,6 @@
 Ingredients:
 - 2 avocados
+- 1/2 cup chocolate chips
 - 1 tomato
 - 1 lime
 - 2 tsp salt
@@ -13,4 +14,5 @@ Instructions:
 - squeeze lime
 - add salt
 - and mix well
+- add chocolate chips
   
